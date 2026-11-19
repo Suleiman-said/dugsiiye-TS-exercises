@@ -1,0 +1,10 @@
+"use strict";
+let names = ["John", "Jane", "Jim", "Jill"];
+let grades = [85, 90, 78, 92];
+let statuses = [true, false, true, false];
+names.push("kowther");
+grades.push(88);
+statuses.push(false);
+let products = ["Laptop", "Desktop", "Phone", "Tablet"];
+products.push("Smartwatch");
+let locations = ["new york", 40.7128, -74.0060];
